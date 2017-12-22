@@ -1,2 +1,2 @@
-(setq initial-major-mode 'text-mode)
+(setq initial-major-mode 'markdown-mode)
 (setq initial-scratch-message "")
