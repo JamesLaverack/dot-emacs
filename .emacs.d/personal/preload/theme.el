@@ -1,2 +1,2 @@
-(setq prelude-theme 'adwaita)
+(setq prelude-theme 'zenburn)
 (setq prelude-whitespace nil)
