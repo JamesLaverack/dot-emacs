@@ -2,6 +2,7 @@
                             clojure-mode
                             aggressive-indent
                             rainbow-delimiters
+                            clj-refactor
                             cider))
 
 (add-hook 'clojure-mode-hook #'paredit-mode)
