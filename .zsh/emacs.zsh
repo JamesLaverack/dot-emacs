@@ -1,6 +1,6 @@
 # Convenience commands
-alias e="emacsclient -t"
-alias ex="emacsclient -c"
+alias e="emacs"
+alias ex="emacs"
 
 # Use Emacs as the default editor
-export EDITOR="emacsclient -t"
+export EDITOR="emacs"
